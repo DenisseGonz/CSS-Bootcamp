@@ -1,0 +1,21 @@
+body{
+    background-color:cadetblue;
+}
+#title{
+    color: crimson;
+    text-align: center;
+}
+.p-large{
+    font-size: 32px;
+}
+.p-green{
+    color:chartreuse;
+    background-color: black;
+}
+.p-red{
+    color: lightcoral;
+    background-color: black;
+}
+h1{
+    color: aqua;
+}
