@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://w7.pngwing.com/pngs/132/187/png-transparent-cheems-dog.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    text-align: center;
+    color:royalblue;
+    background-color: black;
+    border: 5px solid red;
+}
+.subtitle{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+#caja, #caja2{
+    background-color: black;
+    color: white;
+}
+#caja{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: 20px auto;
+    /*margin-top: 100px;
+    margin-bottom: 50px;*/
+}
